@@ -12,7 +12,7 @@ import threading
 
 WISHLIST_API = "https://www.sheinindia.in/api/wishlist/getwishlist"
 
-TELEGRAM_BOT_TOKEN = "8578329546:AAHLRhR56VcQ1LugAzPGQ4NSLKr19V5-KJ0" # Change with your telegram bot token
+TELEGRAM_BOT_TOKEN = "8016798207:AAENDM2aXyRADn5tPmK71MTh9FmCpSavNuk" # Change with your telegram bot token
 TELEGRAM_CHAT_ID = "@abhiwhislistbot" # Change with your telegram chat id
 
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
